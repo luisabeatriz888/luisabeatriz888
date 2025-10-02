@@ -5,9 +5,6 @@
 💻 Gosto de transformar ideias em telas bonitas, funcionais e responsivas  
 
 ---
-
-## 🌐 Conecte-se comigo  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/luísa-beatriz-59a1a8344" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
