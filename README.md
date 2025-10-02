@@ -1,8 +1,8 @@
 # Hey 👋, I'm Luísa Beatriz  
 
-🎓 Estudante de **Sistemas de Informação** na **Unimontes**  
-🎨 Apaixonada por **UI Design, Figma, React e estilização de interfaces**  
-💻 Gosto de transformar ideias em telas bonitas, funcionais e responsivas  
+• Estudante de **Sistemas de Informação** na **Unimontes**  
+• Apaixonada por **UI Design, Figma, React e estilização de interfaces**  
+• Gosto de transformar ideias em telas bonitas, funcionais e responsivas  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luísa-beatriz-59a1a8344" target="_blank">
@@ -20,6 +20,7 @@
 ## 💡 Áreas de Interesse  
 
 Tenho interesse em estilização e criação de interfaces, além de trabalhar com UI/UX Design utilizando Figma e React. Também sou apaixonada por marketing digital e comunicação visual, e gosto de desenvolver front-ends interativos e responsivos.
+
 ---
 ## 🛠️ Hard Skills  
 
