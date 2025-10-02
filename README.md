@@ -17,7 +17,10 @@
 </p>
 
 ---
+## 💡 Áreas de Interesse  
 
+Tenho interesse em estilização e criação de interfaces, além de trabalhar com UI/UX Design utilizando Figma e React. Também sou apaixonada por marketing digital e comunicação visual, e gosto de desenvolver front-ends interativos e responsivos.
+---
 ## 🛠️ Hard Skills  
 
 <p align="center">
@@ -43,14 +46,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisabeatriz888&show_icons=true&theme=radical" />
 </p>
-
----
-
-## 💡 Áreas de Interesse  
-
-- **Estilização e criação de interfaces**  
-- **UI/UX Design com Figma e React**  
-- **Marketing digital e tudo que envolve comunicação visual**  
-- **Front-end interativo e responsivo**  
 
 ---
