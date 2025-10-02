@@ -19,13 +19,6 @@
 
 ---
 
-## 📊 Linguagens mais usadas  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabeatriz888&layout=compact&langs_count=6&theme=tokyonight&bg_color=f8f0dc&title_color=8B0000&text_color=000000" />
-</p>
-
----
-
 ## 🛠️ Hard Skills  
 
 <p align="center">
@@ -35,6 +28,13 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📊 Linguagens mais usadas  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabeatriz888&layout=compact&langs_count=6&theme=tokyonight&bg_color=f8f0dc&title_color=8B0000&text_color=000000" />
 </p>
 
 ---
