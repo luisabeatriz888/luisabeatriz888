@@ -17,12 +17,12 @@
 </p>
 
 ---
-## 💡 Áreas de Interesse  
+## Áreas de Interesse  
 
 Tenho interesse em estilização e criação de interfaces, além de trabalhar com UI/UX Design utilizando Figma e React. Também sou apaixonada por marketing digital e comunicação visual, e gosto de desenvolver front-ends interativos e responsivos.
 
 ---
-## 🛠️ Hard Skills  
+## Hard Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,14 +35,14 @@ Tenho interesse em estilização e criação de interfaces, além de trabalhar c
 
 ---
 
-## 📊 Linguagens mais usadas  
+## Linguagens mais usadas  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabeatriz888&layout=compact&langs_count=6&theme=tokyonight&bg_color=f8f0dc&title_color=8B0000&text_color=000000" />
 </p>
 
 ---
 
-## 📈 Estatísticas  
+## Estatísticas  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisabeatriz888&show_icons=true&theme=radical" />
